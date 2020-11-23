@@ -1,4 +1,15 @@
-Adrian Alice <function LETTER_GRADE at 0x03DF7808> 
-Alexis Brus <function LETTER_GRADE at 0x03DF7808> 
-Braxton Conley <function LETTER_GRADE at 0x03DF7808> 
-Bruce Lee <function LETTER_GRADE at 0x03DF7808> 
+Adrian Alice C 
+Alexis Bruce B 
+Braxton Conley F 
+Bruce Lee D 
+Brain Quach C 
+Carson Zavala F 
+Diana Soto F 
+Dasom Cordova F 
+Ian Acedo A 
+Mason Spens B 
+Schane Nair D 
+Shakeel Cabrera F 
+Vincent Medina A 
+
+The class GPA is 1.54

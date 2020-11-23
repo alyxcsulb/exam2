@@ -1,8 +1,17 @@
-# fsdsda
+# random letter generator
+#revised answer for midterm 2 from lecture
 
-import random
-import string
+def main():
+    START = ord('A')
+    END = ord('Z')
+    COUNT = 30
 
-letters = [i for i in string.ascii_uppercase]
-random_list = random.sample(letters,25)
-print (random_list)
+    import random
+
+    rand_letters = [chr(random.randint(START, END)) for _ in range(COUNT)]
+
+    print(sorted(rand_letters, reverse=False))
+    unique = list(set(rand_letters))
+    print(sorted(unique, reverse=True))
+
+main()
